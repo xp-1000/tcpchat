@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1386524870 source:/home/kiwis/client/main.c
+	<stdio.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<netinet/in.h>
+	<pthread.h>
+

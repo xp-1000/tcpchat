@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1386530466 source:/root/chat/server/main.c
+	<stdio.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<netinet/in.h>
+	<pthread.h>
+
